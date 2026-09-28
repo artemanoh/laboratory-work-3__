@@ -747,3 +747,7 @@ h1 {
         width: 240px;
     }
 }
+
+.nav-links a:active {
+    background-color: #005bb5;
+}

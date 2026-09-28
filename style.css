@@ -197,7 +197,7 @@ h1 {
     letter-spacing: -2px;
 }
 
-.hero-text > p:not(.subtitle) {
+.hero-text>p:not(.subtitle) {
     font-size: 20px;
     color: #666;
 
@@ -282,7 +282,7 @@ h1 {
     letter-spacing: -1px;
 }
 
-.content > p {
+.content>p {
     color: #666;
     max-width: 700px;
 }
@@ -350,7 +350,7 @@ h1 {
     font-size: 52px;
 }
 
-.page-header > p:last-child {
+.page-header>p:last-child {
     color: #666;
     font-size: 18px;
 
@@ -659,7 +659,7 @@ h1 {
         font-size: 45px;
     }
 
-    .hero-text > p:not(.subtitle) {
+    .hero-text>p:not(.subtitle) {
         font-size: 17px;
     }
 
